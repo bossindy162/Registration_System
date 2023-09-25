@@ -66,7 +66,7 @@ require_once 'config/db.php';
             <button type="submit" name="signup"  class="btn btn-primary">Signup</button>
           </form>
           <hr>
-          <p>เป็นสมาชิกแล้วใช่ไหม คลิ้กที่นี้เพื่อ<a href="signin.php">เข้าสู่ระบบ</a></p>
+          <p>เป็นสมาชิกแล้วใช่ไหม คลิกที่นี้เพื่อ<a href="signin.php">เข้าสู่ระบบ</a></p>
 
     </div>
 
